@@ -1,2 +1,4 @@
 # odin-recipes
-Project: Recipes on The Odin Project
+Project: Recipes - The Odin Project
+
+This project is a simple website for recipes. The home page contains links to several recipes.
