@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#title-home {
+    color: rgb(126, 0, 0);
+    background-color: rgb(249, 243, 205);
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.title,
+.header {
+    color: rgb(78, 1, 114);
+}
+
+.title {
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.header {
+    font-style: italic;
+}
